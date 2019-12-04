@@ -1,0 +1,17 @@
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\bin\Release\netcoreapp2.1\ListwebApp.deps.json
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\bin\Release\netcoreapp2.1\ListwebApp.runtimeconfig.json
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\bin\Release\netcoreapp2.1\ListwebApp.runtimeconfig.dev.json
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\bin\Release\netcoreapp2.1\ListwebApp.dll
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\bin\Release\netcoreapp2.1\ListwebApp.pdb
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\obj\Release\netcoreapp2.1\ListwebApp.csprojAssemblyReference.cache
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\obj\Release\netcoreapp2.1\ListwebApp.RazorAssemblyInfo.cache
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\obj\Release\netcoreapp2.1\ListwebApp.RazorAssemblyInfo.cs
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\obj\Release\netcoreapp2.1\ListwebApp.AssemblyInfoInputs.cache
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\obj\Release\netcoreapp2.1\ListwebApp.AssemblyInfo.cs
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\obj\Release\netcoreapp2.1\ListwebApp.RazorTargetAssemblyInfo.cache
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\obj\Release\netcoreapp2.1\ListwebApp.dll
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\obj\Release\netcoreapp2.1\ListwebApp.pdb
+C:\Users\dmorton\source\repos\ListwebApp\ListwebApp\bin\Release\netcoreapp2.1\web.config
